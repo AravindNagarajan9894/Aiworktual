@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "domain creation suite">
+	<test name="domain creation test">
+		<classes>
+			<class name="CompanyCreation.Xaia3Plus_FreePlan_Purchase_Live"/>
+		</classes>
+	</test>
+</suite>
